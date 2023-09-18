@@ -26,6 +26,10 @@ body{
     background-color: #fdd500;
 }
 
+.seat.selectedq{
+    background-color: #fdd500;
+}
+
 .seat.reserved{
     background-color: #fff;
 }
